@@ -1,0 +1,6 @@
+20250723	09:41:28	cfff282c-0d1d-4c34-b694-20dd5e6ec090	GET	undefined 	/
+20250723	09:41:29	41d993f8-80f5-46cc-9fea-a97603c80592	GET	undefined 	/.well-known/appspecific/com.chrome.devtools.json
+20250723	09:41:29	fce6e86d-59ed-4673-b29a-15ce935ed95c	GET	undefined 	/css/style.css
+20250723	09:45:07	c81fc658-2482-4b15-b25e-a86ecd66217e	GET	undefined 	/
+20250723	09:45:07	bbab7c42-5379-4fa1-a14b-5243073f441d	GET	undefined 	/css/style.css
+20250723	09:45:07	e7c51f88-6f97-4336-afb9-1b672a2031c6	GET	undefined 	/.well-known/appspecific/com.chrome.devtools.json
